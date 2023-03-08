@@ -1,0 +1,15 @@
+C:\Users\MyUser\Desktop\прога\geekbrains\Chapter1Final\bin\Debug\net7.0\Chapter1Final.exe
+C:\Users\MyUser\Desktop\прога\geekbrains\Chapter1Final\bin\Debug\net7.0\Chapter1Final.deps.json
+C:\Users\MyUser\Desktop\прога\geekbrains\Chapter1Final\bin\Debug\net7.0\Chapter1Final.runtimeconfig.json
+C:\Users\MyUser\Desktop\прога\geekbrains\Chapter1Final\bin\Debug\net7.0\Chapter1Final.dll
+C:\Users\MyUser\Desktop\прога\geekbrains\Chapter1Final\bin\Debug\net7.0\Chapter1Final.pdb
+C:\Users\MyUser\Desktop\прога\geekbrains\Chapter1Final\obj\Debug\net7.0\Chapter1Final.csproj.AssemblyReference.cache
+C:\Users\MyUser\Desktop\прога\geekbrains\Chapter1Final\obj\Debug\net7.0\Chapter1Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MyUser\Desktop\прога\geekbrains\Chapter1Final\obj\Debug\net7.0\Chapter1Final.AssemblyInfoInputs.cache
+C:\Users\MyUser\Desktop\прога\geekbrains\Chapter1Final\obj\Debug\net7.0\Chapter1Final.AssemblyInfo.cs
+C:\Users\MyUser\Desktop\прога\geekbrains\Chapter1Final\obj\Debug\net7.0\Chapter1Final.csproj.CoreCompileInputs.cache
+C:\Users\MyUser\Desktop\прога\geekbrains\Chapter1Final\obj\Debug\net7.0\Chapter1Final.dll
+C:\Users\MyUser\Desktop\прога\geekbrains\Chapter1Final\obj\Debug\net7.0\refint\Chapter1Final.dll
+C:\Users\MyUser\Desktop\прога\geekbrains\Chapter1Final\obj\Debug\net7.0\Chapter1Final.pdb
+C:\Users\MyUser\Desktop\прога\geekbrains\Chapter1Final\obj\Debug\net7.0\Chapter1Final.genruntimeconfig.cache
+C:\Users\MyUser\Desktop\прога\geekbrains\Chapter1Final\obj\Debug\net7.0\ref\Chapter1Final.dll
